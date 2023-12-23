@@ -8,3 +8,6 @@ Picking names as an example, you lebel the containers with different names and s
 oranges = "a box of oranges"
 bananas = "a box of bananas"
 apples = "a box of apples"
+
+fruits = print(oranges, bananas, apples)
+ print
