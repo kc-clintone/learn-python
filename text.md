@@ -24,7 +24,7 @@ $ mkdir work_dir
 $ cd work_dir
 
 #create hello_world file
-nano hello_world.py
+$ nano hello_world.py
 
    or
 
