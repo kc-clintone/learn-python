@@ -10,4 +10,4 @@ This is a beginner-friendly python repository, starting from what is python to e
 - What is python
 - Why python
 - How tos & examples
-
+- Topics
