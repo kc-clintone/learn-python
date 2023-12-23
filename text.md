@@ -38,3 +38,13 @@ Inside the file "hello_world.py", write the following code:
 print("Hello, world!")
 '''
 
+Save the file and run it as follows:
+'''bash
+$ python3 hello_world.py
+'''
+
+you should see the following output
+
+'''bash
+Hello, world!
+'''
