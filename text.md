@@ -32,4 +32,9 @@ touch hello_world.py
 
 ### Running hello_world.py
 
-Inside the file "hello_world.py", write the following code
+Inside the file "hello_world.py", write the following code:
+
+'''python
+print("Hello, world!")
+'''
+
