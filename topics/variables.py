@@ -6,6 +6,7 @@ Picking names as an example, you lebel the containers with different names and s
 '''
 # a container that holds oranges
 oranges = "a box of oranges"
+# a container that holds bananas
 bananas = "a box of bananas"
 apples = "a box of apples"
 
