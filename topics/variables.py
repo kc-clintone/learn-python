@@ -9,5 +9,4 @@ oranges = "a box of oranges"
 bananas = "a box of bananas"
 apples = "a box of apples"
 
-fruits = print(oranges, bananas, apples)
-print(fruits)
+print(oranges, bananas, apples)
