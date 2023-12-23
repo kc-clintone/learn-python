@@ -8,3 +8,4 @@ Let's learn how to run python code on our machines
 
 ## Windows machine
 ## MacOs machine
+## Linux machine
