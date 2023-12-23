@@ -28,6 +28,5 @@ nano hello_world.py
    or
 
 touch hello_world.py
-
 '''
 ### Running hello_world.py
