@@ -1,1 +1,1 @@
-# These are the topics we're going to cover
+# Topics for this course
