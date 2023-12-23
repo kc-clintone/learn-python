@@ -46,7 +46,7 @@ Note: this is on linux or macOs terminal
 $ python3 hello_world.py
 '''
 
-you should see the following output
+You should see the following output
 
 '''bash
 Hello, world!
