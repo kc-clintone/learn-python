@@ -1,1 +1,1 @@
-# These are example python code
+# Example python code snippets
