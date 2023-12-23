@@ -6,4 +6,4 @@ This is a beginner-friendly python repository, starting from what is python to e
 
 #Contents
 - Introduction
-
+- Table of contents
