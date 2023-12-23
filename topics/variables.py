@@ -14,4 +14,6 @@ bananas = "a box of bananas"
 # a container that holds apples
 apples = "a box of apples"
 
+
 print(oranges, bananas, apples)
+# variables allow you to store values in the computer memory
