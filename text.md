@@ -5,4 +5,6 @@ Here, we will talk about all the things you need to know about python programmin
 # Running python code
 
 Let's learn how to run python code on our machines
-## 
+
+## Windows machine
+## MacOs machine
