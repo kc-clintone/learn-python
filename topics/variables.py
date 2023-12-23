@@ -17,4 +17,4 @@ apples = "a box of apples"
 
 print(oranges, bananas, apples)
 # variables allow you to store values in particular computer memory locations
-# and retrieve them for use when needed. The values may change
+# and retrieve them for use when needed. The values may change but the name should always remain relevant to the purpose of the variable
