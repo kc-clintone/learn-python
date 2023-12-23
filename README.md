@@ -8,3 +8,4 @@ This is a beginner-friendly python repository, starting from what is python to e
 - Introduction
 - Table of contents
 - What is python
+- Why python
