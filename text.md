@@ -21,7 +21,7 @@ Make a directory/folder called "work_dir" and inside it, create a file called "h
 $ mkdir work_dir
 
 #cd into the folder
-cd work_dir
+$ cd work_dir
 
 #create hello_world file
 nano hello_world.py
