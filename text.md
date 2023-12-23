@@ -18,7 +18,7 @@ Make a directory/folder called "work_dir" and inside it, create a file called "h
 
 '''bash
 #create a directory/folder
-mkdir work_dir
+$ mkdir work_dir
 
 #cd into the folder
 cd work_dir
