@@ -1,5 +1,5 @@
 # Variables
 
 '''
-Let's think of a variable as a container, for example, you want to store a bunch of fruits
+Let's think of a variable as a container, for example, you want to store a bunch of fruits, you label certain number of containers
 '''
