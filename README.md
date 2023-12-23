@@ -11,3 +11,5 @@ This is a beginner-friendly python repository, starting from what is python to e
 - Why python
 - How tos & examples
 - Topics
+- Projects
+- 
