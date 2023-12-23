@@ -16,10 +16,18 @@ We will be primarily using linux to work on most of our programs, this is becaus
 Make a directory/folder called "work_dir" and inside it, create a file called "hello_world.py":
 
 '''bash
-
+#create a directory/folder
 mkdir work_dir
+
+#cd into the folder
 cd work_dir
 
+#create hello_world file
+nano hello_world.py
+
+   or
+
+touch hello_world.py
 
 '''
 ### Running hello_world.py
