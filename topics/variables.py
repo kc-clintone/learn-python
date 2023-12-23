@@ -11,7 +11,7 @@ oranges = "a box of oranges"
 # a container that holds bananas
 bananas = "a box of bananas"
 
-# a contai
+# a container that holds apples
 apples = "a box of apples"
 
 print(oranges, bananas, apples)
