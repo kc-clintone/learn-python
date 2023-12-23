@@ -2,6 +2,4 @@
 
 Here, we will talk about all the things you need to know about python programming language.
 
-# Running python vcode
-
-Lew
+# Running python code
