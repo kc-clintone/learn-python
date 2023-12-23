@@ -9,4 +9,5 @@ This is a beginner-friendly python repository, starting from what is python to e
 - Table of contents
 - What is python
 - Why python
-- How tos
+- How tos & examples
+
