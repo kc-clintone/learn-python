@@ -17,4 +17,4 @@ This is a beginner-friendly python course, starting from what is python to exper
 - What's next after learing python?
 
 # All about python
-#Examples
+# Examples
