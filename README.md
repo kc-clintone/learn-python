@@ -23,4 +23,6 @@ This is a beginner-friendly python course, starting from what is python to exper
 # What's next after learing python?
 # Conclusion
 
-Thank you for checking out this repo. If you find this course interesting, please leave a star. For feedbac
+Thank you for checking out this repo. If you find this course interesting, please leave a star. For feedback and comments, reach out through:
+- email
+-
