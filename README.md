@@ -21,3 +21,4 @@ This is a beginner-friendly python course, starting from what is python to exper
 # Topics & lessons
 # Projects & exercises
 # What's next after learing python?
+# Conclusion
