@@ -1,3 +1,3 @@
 # This is the projects folder
 
-we will
+We will look at different projects and lots of exercises
