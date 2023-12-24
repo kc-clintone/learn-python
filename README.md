@@ -14,4 +14,4 @@ This is a beginner-friendly python repository, starting from what is python to e
 - Examples
 - Topics & lessons
 - Projects & exercises
-- What's next?
+- What's next after learing python?
