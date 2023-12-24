@@ -2,3 +2,4 @@
 # Use variables where possible
 
 message = "Hello, world"
+ print(me)
