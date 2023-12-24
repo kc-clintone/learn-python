@@ -10,7 +10,7 @@ This is a beginner-friendly python repository, starting from what is python to e
 - Introduction
 - Contents
 - All about python
-- Why python
+- Why choose python?
 - How tos & examples
 - Topics
 - Projects
