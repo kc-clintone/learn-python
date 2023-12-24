@@ -2,7 +2,7 @@
 
 # Introduction
 
-Welcome to the python crash course.
+Welcome to the python crash course, where you will learn to write good snake code
 This is a beginner-friendly python repository, starting from what is python to expert programmer uusing the python language.
 
 # Contents
