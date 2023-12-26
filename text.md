@@ -14,7 +14,7 @@ We will be primarily using linux to work on most of our programs, this is becaus
 
 ## Linux machine
 
-Make a directory/folder called "work_dir" and inside it, create a file called "hello_world.py":
+First, create a directory/folder called "work_dir" and inside it, create a file called "hello_world.py":
 
 '''bash
 #create a directory/folder
