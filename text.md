@@ -33,7 +33,7 @@ $ touch hello_world.py
 
 ### Running hello_world.py
 
-Open the file with a text editor,
+Open the file with a text editor,like nano or vim, i.e. "nano hello_world.py"
 Inside the file "hello_world.py", write the following code:
 
 '''python
