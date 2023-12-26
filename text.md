@@ -44,11 +44,13 @@ print("Hello, world!")
 Save the file and run it as follows:
 
 Note: this is on linux or macOs terminal
+
 '''bash
 $ python3 hello_world.py
+
 '''
 
-You should see the following output
+Upon successgul run, you should see the following output
 
 '''bash
 Hello, world!
